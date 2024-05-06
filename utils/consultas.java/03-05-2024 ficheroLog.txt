@@ -1,0 +1,14 @@
+03-05-2024- Opcion elegida: 1 - Registro de llegada
+03-05-2024- Opcion elegida: 2
+03-05-2024- Opcion elegida: 0 - Menu cerrado
+03-05-2024- Opcion elegida: 1 - Registro de llegada
+03-05-2024- Opcion elegida: 0 - Menu cerrado
+03-05-2024- Opcion elegida: 1 - Registro de llegada
+03-05-2024- Opcion elegida: 1 - Registro de llegada
+03-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-03 23:16:22 - Opción seleccionada en Menu Listado Consultas : 1 - Mostrar consultas
+2024-05-03 23:16:24 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-03 23:16:27 - Opción seleccionada en Menu Listado Consultas : 0 - Volver
+03-05-2024- Opcion elegida: 1 - Registro de llegada
+03-05-2024- Opcion elegida: 2 en SubMenu Listado consultas
+03-05-2024- Opcion elegida: 0 - Menu cerrado

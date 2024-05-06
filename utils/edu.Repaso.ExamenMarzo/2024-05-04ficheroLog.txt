@@ -1,0 +1,50 @@
+2024-05-04 17:39:46 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:06:21 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:33:07 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:33:21 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:34:54 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:35:04 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:36:19 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:36:26 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:37:09 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:37:41 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:37:53 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:39:30 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:39:37 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:40:33 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:42:05 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:43:57 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:44:08 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:47:12 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:47:23 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:49:03 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:49:13 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:49:34 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:49:40 - Opción seleccionada en Menú Empleado: 0 - Volver
+2024-05-04 19:49:44 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 19:49:54 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 19:50:26 - Opción seleccionada en Menú Empleado: 0 - Volver
+2024-05-04 19:49:02 - Opción seleccionada: 1 - Menú de Empleado
+2024-05-04 19:49:42 - Opción seleccionada: 1 - Menú de Empleado
+2024-05-04 19:50:27 - Opción seleccionada: 0 - Menú cerrado
+2024-05-04 20:09:27 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 20:09:37 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 20:10:25 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 20:21:12 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 20:21:22 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 20:21:37 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 20:29:33 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 20:29:46 - Opción seleccionada en Menú Empleado: 2 - Agregar una venta
+2024-05-04 20:30:00 - Opción seleccionada en Menú Empleado: 1 - Calculo total diario
+2024-05-04 20:30:55 - Opción seleccionada en Menú Empleado: 0 - Volver
+2024-05-04 20:29:29 - Opción seleccionada: 1 - Menú de Empleado
+2024-05-04 20:31:20 - Opción seleccionada: 2 - Menú de Agencia
+2024-05-04 20:33:08 - Opción seleccionada: 0 - Menú cerrado
+2024-05-04 22:09:14 - Opción seleccionada: 2 - Menú de Agencia
+2024-05-04 22:09:32 - Opción seleccionada: 0 - Menú cerrado
+2024-05-04 22:15:36 - Opción seleccionada: 2 - Menú de Agencia
+2024-05-04 22:15:48 - Opción seleccionada: 0 - Menú cerrado
+2024-05-04 22:21:06 - Opción seleccionada: 2 - Menú de Agencia
+2024-05-04 22:21:16 - Opción seleccionada: 0 - Menú cerrado
+2024-05-04 22:21:30 - Opción seleccionada: 2 - Menú de Agencia
+2024-05-04 22:21:37 - Opción seleccionada: 0 - Menú cerrado

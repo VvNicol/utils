@@ -1,0 +1,64 @@
+2024-05-04 00:47:24 - Opción seleccionada en Menu Consultas Especialistas : 0 - Volver
+2024-05-04 00:47:18 - Opción seleccionada en Menu Listado Consultas : 1 - Mostrar consultas
+2024-05-04 00:47:28 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 00:47:29 - Opción seleccionada en Menu Listado Consultas : 0 - Volver
+04-05-2024- Opcion elegida: 1 - Registro de llegada
+04-05-2024- Opcion elegida: 2 en SubMenu Listado consultas
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 01:37:00 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 01:45:27 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 01:48:58 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 01:49:27 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 01:49:48 - Opción seleccionada en Menu Consultas Especialistas : 0 - Volver
+2024-05-04 01:48:54 - Opción seleccionada en Menu Listado Consultas : 1 - Mostrar consultas
+2024-05-04 01:49:49 - Opción seleccionada en Menu Listado Consultas : 0 - Volver
+04-05-2024- Opcion elegida: 1 - Registro de llegada
+04-05-2024- Opcion elegida: 2 en SubMenu Listado consultas
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 01:58:04 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 01:58:13 - Opción seleccionada en Menu Consultas Especialistas : 2 - Traumatología
+2024-05-04 01:58:24 - Opción seleccionada en Menu Consultas Especialistas : 3 - Fisioterapia
+2024-05-04 01:58:34 - Opción seleccionada en Menu Consultas Especialistas : 0 - Volver
+2024-05-04 01:58:02 - Opción seleccionada en Menu Listado Consultas : 1 - Mostrar consultas
+2024-05-04 01:58:37 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 01:58:41 - Opción seleccionada en Menu Listado Consultas : 0 - Volver
+04-05-2024- Opcion elegida: 2 en SubMenu Listado consultas
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 14:37:49 - Opción seleccionada en Menu Consultas Especialistas : 2 - Traumatología
+2024-05-04 14:48:24 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 14:52:13 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 14:52:32 - Opción seleccionada en Menu Consultas Especialistas : 0 - Volver
+2024-05-04 14:52:11 - Opción seleccionada en Menu Listado Consultas : 1 - Mostrar consultas
+2024-05-04 14:52:34 - Opción seleccionada en Menu Listado Consultas : 0 - Volver
+04-05-2024- Opcion elegida: 1 - Registro de llegada
+04-05-2024- Opcion elegida: 2 en SubMenu Listado consultas
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 14:55:05 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 15:01:45 - Opción seleccionada en Menu Consultas Especialistas : 2 - Traumatología
+2024-05-04 15:02:55 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 15:03:46 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 15:10:07 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 15:11:01 - Opción seleccionada en Menu Consultas Especialistas : 2 - Traumatología
+2024-05-04 15:11:43 - Opción seleccionada en Menu Consultas Especialistas : 3 - Fisioterapia
+2024-05-04 15:15:22 - Opción seleccionada en Menu Consultas Especialistas : 3 - Fisioterapia
+2024-05-04 15:15:55 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+04-05-2024- Opcion elegida: 1 - Registro de llegada
+04-05-2024- Opcion elegida: 1 - Registro de llegada
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 15:20:55 - Opción seleccionada en Menu Consultas Especialistas : 2 - Traumatología
+2024-05-04 15:21:07 - Opción seleccionada en Menu Consultas Especialistas : 3 - Fisioterapia
+2024-05-04 15:22:55 - Opción seleccionada en Menu Consultas Especialistas : 3 - Fisioterapia
+2024-05-04 16:42:51 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 16:44:13 - Opción seleccionada en Menu Listado Consultas : 3 - Opcion invalida
+2024-05-04 16:44:15 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 16:45:04 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 16:59:59 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 17:00:19 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
+2024-05-04 17:12:47 - Opción seleccionada en Menu Listado Consultas : 0 - Volver
+04-05-2024- Opcion elegida: 2 en SubMenu Listado consultas
+04-05-2024- Opcion elegida: 0 - Menu cerrado
+2024-05-04 20:45:46 - Opción seleccionada en Menu Consultas Especialistas : 1 - Psicología
+2024-05-04 20:46:41 - Opción seleccionada en Menu Consultas Especialistas : 0 - Volver
+2024-05-04 20:45:34 - Opción seleccionada en Menu Listado Consultas : 1 - Mostrar consultas
+2024-05-04 20:46:51 - Opción seleccionada en Menu Listado Consultas : 2 - Imprimir consultas
